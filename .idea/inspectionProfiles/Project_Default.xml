@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="SpeechRecognition" />
+            <item index="1" class="java.lang.String" itemvalue="pynput" />
+            <item index="2" class="java.lang.String" itemvalue="pycaw" />
+            <item index="3" class="java.lang.String" itemvalue="mediapipe" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="screen-brightness-control" />
+            <item index="6" class="java.lang.String" itemvalue="pyttsx3" />
+            <item index="7" class="java.lang.String" itemvalue="pyautogui" />
+            <item index="8" class="java.lang.String" itemvalue="wikipedia" />
+            <item index="9" class="java.lang.String" itemvalue="comtypes" />
+            <item index="10" class="java.lang.String" itemvalue="eel" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="aiogram.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
